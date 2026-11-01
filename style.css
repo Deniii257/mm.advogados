@@ -43,7 +43,7 @@ nav a {
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url(./imagens/plano-fundo.jpg);
+    background-image: url(plano-fundo.jpg);
     background-position: center;
     background-size: cover;
 }
